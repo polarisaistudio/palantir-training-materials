@@ -1,0 +1,11 @@
+tech_id,name,specialty,phone,active
+TECH-001,Carlos Martinez,Plumbing,602-555-0101,TRUE
+TECH-002,Sarah Johnson,HVAC,602-555-0102,TRUE
+TECH-003,Mike Chen,Electrical,602-555-0103,TRUE
+TECH-004,David Kim,Roofing,602-555-0104,TRUE
+TECH-005,Jessica Williams,Appliance,602-555-0105,TRUE
+TECH-006,Robert Garcia,Plumbing,602-555-0106,TRUE
+TECH-007,Amanda Lee,HVAC,602-555-0107,TRUE
+TECH-008,James Brown,Electrical,602-555-0108,FALSE
+TECH-009,Lisa Nguyen,General Maintenance,602-555-0109,TRUE
+TECH-010,Daniel Wilson,Appliance,602-555-0110,TRUE

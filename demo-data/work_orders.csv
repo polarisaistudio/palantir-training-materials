@@ -1,0 +1,51 @@
+wo_id,building_id,tech_id,category,description,priority,status,created_date,completed_date,cost
+WO-001,BLD-001,TECH-001,Plumbing,Kitchen sink leaking under cabinet,High,Completed,2025-11-01,2025-11-03,320.00
+WO-002,BLD-002,TECH-002,HVAC,AC unit not cooling properly,Critical,Completed,2025-11-02,2025-11-02,850.00
+WO-003,BLD-003,TECH-003,Electrical,Outdoor light fixture flickering,Low,Completed,2025-11-05,2025-11-10,150.00
+WO-004,BLD-004,TECH-005,Appliance,Dishwasher not draining,Medium,Completed,2025-11-08,2025-11-12,275.00
+WO-005,BLD-005,TECH-004,Roofing,Missing shingles after storm,High,Completed,2025-11-10,2025-11-15,1200.00
+WO-006,BLD-006,TECH-001,Plumbing,Toilet running continuously,Medium,Completed,2025-11-12,2025-11-14,180.00
+WO-007,BLD-007,TECH-002,HVAC,Thermostat not responding,Medium,Completed,2025-11-15,2025-11-18,420.00
+WO-008,BLD-008,TECH-003,Electrical,Circuit breaker keeps tripping,High,Completed,2025-11-18,2025-11-19,380.00
+WO-009,BLD-009,TECH-009,General Maintenance,Front door lock jammed,Medium,Completed,2025-11-20,2025-11-21,95.00
+WO-010,BLD-010,TECH-005,Appliance,Refrigerator making loud noise,Medium,Completed,2025-11-22,2025-11-25,310.00
+WO-011,BLD-011,TECH-001,Plumbing,Water heater leaking from base,Critical,Completed,2025-11-25,2025-11-26,1450.00
+WO-012,BLD-012,TECH-002,HVAC,Furnace not igniting,Critical,Completed,2025-11-28,2025-11-29,680.00
+WO-013,BLD-013,TECH-004,Roofing,Gutter detached from fascia,Low,Completed,2025-12-01,2025-12-08,250.00
+WO-014,BLD-014,TECH-003,Electrical,Smoke detector beeping intermittently,Low,Completed,2025-12-03,2025-12-05,75.00
+WO-015,BLD-015,TECH-005,Appliance,Washing machine vibrating excessively,Medium,Completed,2025-12-05,2025-12-09,200.00
+WO-016,BLD-001,TECH-006,Plumbing,Bathroom faucet dripping,Low,Completed,2025-12-08,2025-12-12,120.00
+WO-017,BLD-002,TECH-007,HVAC,Ductwork making banging noise,Medium,Completed,2025-12-10,2025-12-15,550.00
+WO-018,BLD-016,TECH-009,General Maintenance,Garage door opener malfunctioning,Medium,Completed,2025-12-12,2025-12-16,340.00
+WO-019,BLD-017,TECH-003,Electrical,Outlet not working in living room,Medium,Completed,2025-12-15,2025-12-17,160.00
+WO-020,BLD-018,TECH-001,Plumbing,Slab leak detected in bathroom,Critical,In Progress,2025-12-18,,0.00
+WO-021,BLD-019,TECH-002,HVAC,Heat pump making grinding noise,High,In Progress,2025-12-20,,0.00
+WO-022,BLD-020,TECH-004,Roofing,Flat roof ponding water,High,In Progress,2025-12-22,,0.00
+WO-023,BLD-021,TECH-005,Appliance,Oven temperature inaccurate,Medium,In Progress,2025-12-25,,0.00
+WO-024,BLD-022,TECH-003,Electrical,Ceiling fan wobbling dangerously,High,Open,2025-12-28,,0.00
+WO-025,BLD-023,TECH-009,General Maintenance,Window screen torn,Low,Open,2025-12-30,,0.00
+WO-026,BLD-024,TECH-006,Plumbing,Sprinkler system valve broken,Medium,Open,2026-01-02,,0.00
+WO-027,BLD-025,TECH-007,HVAC,Condensation dripping from vent,Medium,Open,2026-01-05,,0.00
+WO-028,BLD-003,TECH-005,Appliance,Garbage disposal jammed,Low,Open,2026-01-08,,0.00
+WO-029,BLD-005,TECH-004,Roofing,Skylight seal cracking,Medium,Open,2026-01-10,,0.00
+WO-030,BLD-007,TECH-001,Plumbing,Main line slow drain,High,Open,2026-01-12,,0.00
+WO-031,BLD-010,TECH-002,HVAC,Mini split unit error code E3,High,Open,2026-01-15,,0.00
+WO-032,BLD-012,TECH-003,Electrical,GFCI outlet won't reset,Medium,Open,2026-01-18,,0.00
+WO-033,BLD-014,TECH-009,General Maintenance,Patio sliding door off track,Low,Open,2026-01-20,,0.00
+WO-034,BLD-015,TECH-005,Appliance,Dryer taking too long to dry,Medium,Open,2026-01-22,,0.00
+WO-035,BLD-001,TECH-002,HVAC,Annual HVAC maintenance,Low,Open,2026-01-25,,0.00
+WO-036,BLD-008,TECH-001,Plumbing,Shower head low pressure,Low,Open,2026-01-28,,0.00
+WO-037,BLD-011,TECH-003,Electrical,Doorbell not working,Low,Open,2026-02-01,,0.00
+WO-038,BLD-013,TECH-007,HVAC,Thermostat schedule not saving,Medium,Open,2026-02-03,,0.00
+WO-039,BLD-017,TECH-004,Roofing,Ridge cap lifted by wind,High,Open,2026-02-05,,0.00
+WO-040,BLD-020,TECH-006,Plumbing,Irrigation backflow valve test,Low,Open,2026-02-08,,0.00
+WO-041,BLD-004,TECH-002,HVAC,Compressor short cycling,Critical,Open,2026-02-10,,0.00
+WO-042,BLD-006,TECH-003,Electrical,Panel upgrade needed 100A to 200A,High,Open,2026-02-12,,0.00
+WO-043,BLD-009,TECH-005,Appliance,Ice maker not producing ice,Low,Open,2026-02-14,,0.00
+WO-044,BLD-019,TECH-009,General Maintenance,Fence post leaning,Medium,Open,2026-02-16,,0.00
+WO-045,BLD-021,TECH-001,Plumbing,Water softener salt bridge,Low,Open,2026-02-18,,0.00
+WO-046,BLD-023,TECH-004,Roofing,Tile roof cracked tiles,Medium,Open,2026-02-20,,0.00
+WO-047,BLD-025,TECH-007,HVAC,Duct insulation deteriorating,Medium,Open,2026-02-22,,0.00
+WO-048,BLD-002,TECH-003,Electrical,Landscape lighting transformer failed,Low,Open,2026-02-23,,0.00
+WO-049,BLD-004,TECH-006,Plumbing,Hose bib leaking at handle,Low,Open,2026-02-23,,0.00
+WO-050,BLD-006,TECH-005,Appliance,Range hood fan not working,Medium,Open,2026-02-23,,0.00

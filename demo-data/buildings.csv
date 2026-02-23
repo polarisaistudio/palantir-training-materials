@@ -1,0 +1,26 @@
+building_id,address,city,type,year_built,sqft,status
+BLD-001,1420 Oak Valley Dr,Phoenix,Single Family,2005,1850,Active
+BLD-002,2233 Maple Ridge Ln,Phoenix,Single Family,2010,2200,Active
+BLD-003,8901 Cactus Wren Blvd,Scottsdale,Townhouse,2015,1600,Active
+BLD-004,3456 Desert Bloom Ave,Tempe,Single Family,2003,1950,Active
+BLD-005,7890 Sunflower Ct,Mesa,Single Family,2012,2400,Active
+BLD-006,1122 Palm Breeze Way,Chandler,Townhouse,2018,1450,Active
+BLD-007,4455 Ironwood Dr,Gilbert,Single Family,2008,2100,Active
+BLD-008,6677 Saguaro Vista Ln,Glendale,Single Family,2001,1750,Active
+BLD-009,2345 Palo Verde St,Peoria,Townhouse,2016,1550,Active
+BLD-010,9012 Red Rock Cir,Surprise,Single Family,2007,2300,Active
+BLD-011,5678 Mesquite Trail,Goodyear,Single Family,2013,1900,Active
+BLD-012,3344 Copper Canyon Rd,Buckeye,Single Family,2019,2050,Active
+BLD-013,7788 Quail Run Dr,Avondale,Townhouse,2011,1500,Active
+BLD-014,1567 Lantana Ln,Phoenix,Single Family,2006,2150,Active
+BLD-015,8234 Creosote Way,Scottsdale,Single Family,2014,2600,Active
+BLD-016,4901 Brittlebush Ave,Tempe,Townhouse,2020,1400,Inactive
+BLD-017,6123 Agave Heights Dr,Mesa,Single Family,2009,1800,Active
+BLD-018,2789 Ocotillo Pass,Chandler,Single Family,2017,2250,Active
+BLD-019,3456 Juniper Ridge Ct,Gilbert,Townhouse,2021,1350,Active
+BLD-020,5012 Prickly Pear Blvd,Glendale,Single Family,2004,1950,Active
+BLD-021,7345 Barrel Cactus Ln,Peoria,Single Family,2002,2050,Active
+BLD-022,1890 Cholla Garden Way,Surprise,Townhouse,2022,1500,Active
+BLD-023,4567 Yucca Flat Dr,Goodyear,Single Family,2010,2100,Active
+BLD-024,6234 Jacaranda St,Buckeye,Single Family,2015,1850,Active
+BLD-025,8901 Oleander Ct,Phoenix,Single Family,2008,2400,Active
